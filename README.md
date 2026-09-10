@@ -1,4 +1,4 @@
-[![header](https://raw.githubusercontent.com/sh4dowbl4d3/sh4dowbl4d3/refs/heads/main/header.png)](https://sh4dowbl4d3.github.io/shadowblade)
+[![header](https://raw.githubusercontent.com/sh4dowbl4d3/sh4dowbl4d3/refs/heads/main/header.jpg)](https://sh4dowbl4d3.github.io/shadowblade)
 
 <samp>
 
