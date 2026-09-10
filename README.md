@@ -2,7 +2,9 @@
 
 <samp>
 
-:3
+<3
+
+trying to do better ! | carpe diem
 
 backend // cybersecurity // linux // OWASP
 
