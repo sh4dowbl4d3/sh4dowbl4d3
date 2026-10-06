@@ -8,6 +8,6 @@ trying to do better ! | carpe diem
 
 backend // cybersecurity // linux // OWASP
 
-<a href="https://nikhilx9.vercel.app"><strong>website</strong></a> | <a href="https://nikhilx9.vercel.app/#blogs"><strong>blogs & research</strong></a> | <a href="https://x.com/shadowblade_27"><strong>x (twitter)</strong></a> | <a href="mailto:nikhil.kumar.jlr.com"><strong>email</strong></a>
+<a href="https://nikhilx9.vercel.app"><strong>website</strong></a> | <a href="https://nikhilx9.vercel.app/#blogs"><strong>blogs & research</strong></a> | <a href="https://tryhackme.com/p/sh4dowbl4d3"><strong>tryhackme</strong></a> | <a href="mailto:nikhil.kumar.jlr.com"><strong>email</strong></a>
 
 </samp>
